@@ -20,7 +20,7 @@
   padding: 15px;
   background-color: hsl(213, 19%, 18%);
   width: 300px;
-  min-height: 300px;
+  min-height: 310px;
   border-radius: 10px;
 }
 .inner h2 {
@@ -61,6 +61,7 @@
   border-radius: 40px;
   border: transparent;
   text-align: center;
+  font-size: 12px;
 }
 .wrapper {
   width: 100vw;
