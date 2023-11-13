@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "explorer.compactFolders": true,
+    "css.format.enable": true,
+    "less.format.enable": true
+  }
+}
